@@ -1,0 +1,16 @@
+# Logfile created on 2014-04-12 15:44:38 +0800 by logger.rb/41954
+I, [2014-04-12T15:44:38.187996 #26429]  INFO -- : 0:  bundler (1.5.1) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-12T15:44:40.690795 #26429]  INFO -- : 0:  bundle (0.0.1) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/bundle-0.0.1.gemspec
+I, [2014-04-12T15:44:40.691816 #26429]  INFO -- : 0:  diff-lcs (1.2.5) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-04-12T15:44:40.692430 #26429]  INFO -- : 0:  rspec-core (2.14.8) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-04-12T15:44:40.693120 #26429]  INFO -- : 0:  rspec-expectations (2.14.5) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-04-12T15:44:40.693812 #26429]  INFO -- : 0:  rspec-mocks (2.14.6) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-04-12T15:44:40.694356 #26429]  INFO -- : 0:  rspec (2.14.1) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-04-12T15:49:01.368472 #26460]  INFO -- : 0:  rake (10.2.2) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rake-10.2.2.gemspec
+I, [2014-04-12T15:49:01.369228 #26460]  INFO -- : 0:  bundler (1.5.1) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
+I, [2014-04-12T15:49:01.369691 #26460]  INFO -- : 0:  bundle (0.0.1) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/bundle-0.0.1.gemspec
+I, [2014-04-12T15:49:01.370159 #26460]  INFO -- : 0:  diff-lcs (1.2.5) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-04-12T15:49:01.370584 #26460]  INFO -- : 0:  rspec-core (2.14.8) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-04-12T15:49:01.371076 #26460]  INFO -- : 0:  rspec-expectations (2.14.5) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-04-12T15:49:01.371491 #26460]  INFO -- : 0:  rspec-mocks (2.14.6) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-04-12T15:49:01.372312 #26460]  INFO -- : 0:  rspec (2.14.1) from /home/elon/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
